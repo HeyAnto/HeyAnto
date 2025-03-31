@@ -54,4 +54,4 @@ Je suis un designer & Développeur Web <sup>(junior)</sup>, passionné par la cr
 
 - 🌍 [Portfolio](heyanto.xyz)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/antoooo/)
-- 📧 Email: [heyantoooo@gmail.com](mailto:heyantoooo@gmail.com)
+- ✉️ [heyantoooo@gmail.com](mailto:heyantoooo@gmail.com)
