@@ -52,6 +52,6 @@ Je suis un designer & Développeur Web <sup>(junior)</sup>, passionné par la cr
 
 ### 📫 Contactez-moi!
 
-- 🌍 [Portfolio](heyanto.xyz)
+- 🌍 [Portfolio](https://heyanto.xyz/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/antoooo/)
 - ✉️ [heyantoooo@gmail.com](mailto:heyantoooo@gmail.com)
