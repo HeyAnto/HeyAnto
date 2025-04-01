@@ -1,6 +1,6 @@
 ### 👋 Hey, moi c'est Antonin!
 
-Je suis un designer & Développeur Web <sup>(junior)</sup>, passionné par la création d'expériences utilisateurs. D'abord attiré par le web design, j'ai voulu aller plus loin en apprenant à donner vie à mes idées grâce au code.
+Je suis un Designer & Développeur Web <sup>(junior)</sup>, passionné par la création d'expériences utilisateurs. D'abord attiré par le web design, j'ai voulu aller plus loin en apprenant à donner vie à mes idées grâce au code.
 
 #
 
