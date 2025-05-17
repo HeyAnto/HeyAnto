@@ -34,7 +34,7 @@ Je suis un Designer & Développeur Web <sup>(junior)</sup>, passionné par la cr
 
 #### Environnement
 
-![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=zen,vscode,windows)
+![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=windows,zen,vscode)
 
 #### Langages
 
