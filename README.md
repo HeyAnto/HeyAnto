@@ -22,34 +22,6 @@ Je suis un Designer & Développeur Web <sup>(junior)</sup>, passionné par la cr
 
 #
 
-### 🌱 En ce moment, j'apprends
-
-- 📌 **Symfony & React**
-- 🔍 **Three.js & Vue.js**
-- 🎮 **Développement de jeux avec Roblox (Lua)**
-
-#
-
-### 💡 Mes compétences
-
-#### Environnement
-
-![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=windows,zen,vscode)
-
-#### Langages
-
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,mysql&perline=5)
-
-#### Technologies
-
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=twig,symfony,react)
-
-#### Outils
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,pr,figma,composer,npm,git,github,discord&perline=5)
-
-#
-
 ### 📫 Contactez-moi!
 
 - 🌍 [Portfolio](https://heyanto.xyz/)
