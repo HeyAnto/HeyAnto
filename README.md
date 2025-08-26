@@ -19,11 +19,3 @@ Je suis un Designer & Développeur Web <sup>(junior)</sup>, passionné par la cr
 | **[Konbinawak](https://github.com/HeyAnto/konbinawak-php)**                     | Blog parodique de Konbini                        | PHP, SQL          |
 | **[Flanano](https://github.com/HeyAnto/flanano-symfony)**                       | Catalogue de produits avec gestion admin         | Symfony, PHP, SQL |
 | **[Photographer Portfolio](https://github.com/HeyAnto/photographer-portfolio)** | Refonte d’un portfolio pour revoir le JavaScript | HTML, CSS, JS     |
-
-#
-
-### 📫 Contactez-moi!
-
-- 🌍 [Portfolio](https://heyanto.xyz/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/antoooo/)
-- ✉️ [heyantoooo@gmail.com](mailto:heyantoooo@gmail.com)
