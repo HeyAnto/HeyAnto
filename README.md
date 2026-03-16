@@ -1,3 +1,3 @@
-### 👋 Hey, moi c'est Antonin
+### 👋 Hey, I'm Antonin
 
-Designer & développeur web, j’expérimente surtout ce qui me fait envie.
+Designer & web developer, mostly experimenting with whatever inspires me.
